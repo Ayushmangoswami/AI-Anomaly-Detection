@@ -1,5 +1,19 @@
-# Anomaly Detection
+# AI-Based Anomaly Detection System
 
-Anomaly detection is the problem of identifying data points that don't conform to expected (normal) behaviour. Unexpected data points are also known as outliers and exceptions etc. Anomaly detection has crucial significance in the wide variety of domains as it provides critical and actionable information. For example, an anomaly in MRI image scan could be an indication of the malignant tumor or anomalous reading from production plant sensor may indicate faulty component.
+This project was submitted for **Skill Wallet Internship**.
 
-This repository provide an anomaly detection algortihm based on estimation of gaussian distribution. This is a Python implementation of algorithm discussed by Andrew Ng in his course of Machine Learning on Coursera.  
+Team Lead: **Aayushmaan Goswami**  
+Course: B.Tech Computer Science
+
+## Overview
+This project detects unusual patterns in data that may represent anomalies using Machine Learning.
+
+## Technologies Used
+- Python
+- Scikit-learn
+- Pandas
+- Streamlit (UI)
+- Matplotlib
+
+## How to Run
+1. Install requirements:
